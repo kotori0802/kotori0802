@@ -2,7 +2,7 @@
 
 ### AI Enablement · Workflow Automation · QA / Product Validation
 
-I turn real testing problems into structured workflows, measurable evidence, and AI-assisted prototypes.
+I turn real testing problems into structured workflows, measurable engineering evidence, and AI-assisted prototypes.
 
 My background combines product validation, user-centered thinking, project management, and practical Generative AI applications.
 
@@ -30,15 +30,15 @@ I use AI as a development and problem-solving partner, not as a source of ground
 
 My workflow combines:
 
-- structured problem decomposition
-- cross-model validation
-- domain-expert feedback
-- real-device testing
-- iterative UI/UX improvement
+- Structured problem decomposition
+- Cross-model validation
+- Domain-expert feedback
+- Real-device testing
+- Iterative UI/UX improvement
 
 ---
 
-## 🛠 Tools
+## 🛠 Tools & Methods
 
 **Generative AI**  
 ChatGPT · Google Gemini · Cursor
@@ -54,19 +54,40 @@ Project Management Professional (PMP)
 
 ---
 
-## 🚀 Projects I'm Building
+## ⭐ Featured Project
+
+### [Mouse Click Stability Analyzer](https://github.com/kotori0802/mouse-click-stability-analyzer)
+
+Independent Windows QA tool for converting raw mouse input behavior into measurable and reviewable engineering evidence.
+
+**What it measures:**  
+Click Timing · Hold Duration · Cadence · Chatter / Bounce · Missed / Extra Events · DUT vs Setup Behavior
+
+**Engineering workflow:**  
+Windows Raw Input → Event Capture → Deterministic Analysis → Visualization → Structured Report
+
+**My role:**  
+Requirement Discovery · QA Methodology · AI-assisted Development · UI/UX · Synthetic & Real-device Validation
+
+**Public release:** `v1.0.0`
+
+The project includes source code, installation guidance, synthetic examples, privacy and security documentation, and structured HTML / JSON / CSV reporting.
+
+---
+
+## 🧪 Projects in Development
 
 ### Power Cycle Validation
 A personal prototype for unattended power-cycle testing, failure tracking, device enumeration checks, functional verification, and structured reporting.
 
 ### Transient Event Visualization
-Turning low-reproduction issues such as wheel rebound behavior into measurable direction, timing, and event data.
+Exploring how intermittent behaviors such as wheel rebound can be converted into measurable direction, timing, and event data.
 
 ### Validation Hub
-A concept for connecting testing tools, engineering logs, natural-language summaries, and standardized issue reports.
+A concept for connecting validation tools, engineering logs, natural-language summaries, and standardized issue reports.
 
 ### AI Test Requirement Assistant
-A planned public project exploring structured requirement discovery and AI-assisted test planning.
+A planned public project exploring structured requirement discovery, clarification workflows, and AI-assisted test planning with human review.
 
 ---
 
