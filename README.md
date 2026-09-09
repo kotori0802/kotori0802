@@ -1,17 +1,17 @@
 # Hi, I'm Leo Cheng, PMP 👋
 
-## AI Enablement · Workflow Automation · Engineering Validation
+## AI Enablement · Workflow Automation · Engineering Tools
 
 I turn ambiguous testing problems into repeatable workflows, measurable engineering evidence, and practical AI-assisted tools.
 
-My background combines product validation, requirement discovery, user-centered thinking, project management, and hands-on development with Generative AI.
+My background combines product validation, requirement discovery, user-centered thinking, project management, hands-on engineering tool development, and applied Generative AI.
 
 ---
 
 ## What I Focus On
 
 - AI Enablement & Workflow Design
-- AI-assisted Engineering Tool Prototyping
+- AI-assisted Engineering Tool Development
 - Workflow Automation
 - QA / Product Validation
 - Requirement Discovery & System Analysis
@@ -33,7 +33,7 @@ My workflow combines structured problem decomposition, cross-model review, domai
 
 # Selected Projects
 
-## Mouse DPI Tool
+## [Mouse DPI Tool](https://github.com/kotori0802/MouseDPI_Tool)
 
 Vendor-neutral Windows engineering tool for repeatable **Effective CPI measurement** using native Windows Raw Input and a known physical travel distance.
 
@@ -63,7 +63,7 @@ Requirement Discovery · Measurement Methodology · Architecture · AI-assisted 
 
 ---
 
-## Mouse Click Stability Analyzer
+## [Mouse Click Stability Analyzer](https://github.com/kotori0802/mouse-click-stability-analyzer)
 
 Independent Windows QA tool for converting raw mouse click behavior into measurable and reviewable engineering evidence.
 
@@ -86,7 +86,7 @@ Requirement Discovery · QA Methodology · AI-assisted Development · UI/UX · S
 ## Tools & Methods
 
 **Engineering**  
-Python · PySide6 · Windows Raw Input · Git / GitHub · JSON / HTML Reporting
+Python · PySide6 · Windows Raw Input · pytest · Git / GitHub · JSON / HTML Reporting
 
 **AI-assisted Development**  
 ChatGPT · Google Gemini · Cursor
@@ -105,7 +105,7 @@ Project Management Professional (PMP)
 ## Projects in Development
 
 **Power Cycle Validation**  
-Workflow automation for unattended power-cycle testing, failure tracking, device enumeration checks, and structured reporting.
+Workflow automation for unattended power-cycle testing, failure tracking, device enumeration checks, functional verification, and structured reporting.
 
 **AI Test Requirement Assistant**  
 Exploring structured requirement discovery, clarification workflows, and AI-assisted test planning with human review.
