@@ -1,46 +1,94 @@
 # Hi, I'm Leo Cheng, PMP 👋
 
-### AI Enablement · Workflow Automation · QA / Product Validation
+## AI Enablement · Workflow Automation · Engineering Validation
 
-I turn real testing problems into structured workflows, measurable engineering evidence, and AI-assisted prototypes.
+I turn ambiguous testing problems into repeatable workflows, measurable engineering evidence, and practical AI-assisted tools.
 
-My background combines product validation, user-centered thinking, project management, and practical Generative AI applications.
+My background combines product validation, requirement discovery, user-centered thinking, project management, and hands-on development with Generative AI.
 
 ---
 
-## 🔍 What I Focus On
+## What I Focus On
 
-- Generative AI & Prompt Engineering
-- AI-assisted Tool Prototyping
+- AI Enablement & Workflow Design
+- AI-assisted Engineering Tool Prototyping
 - Workflow Automation
 - QA / Product Validation
-- Requirement Discovery
+- Requirement Discovery & System Analysis
 - Human-in-the-loop Validation
-- Low-reproduction Issue Analysis
+- Engineering Evidence & Reporting
 - UI/UX for Engineering Tools
-- Technical Project Management
 
 ---
 
-## 🧩 How I Work
+## How I Work
 
-**Understand the problem → Break down requirements → Define the baseline → Build a prototype → Validate with real devices → Refine**
+**Understand the problem → Define the evidence → Break down requirements → Build a prototype → Validate with real devices → Refine**
 
 I use AI as a development and problem-solving partner, not as a source of ground truth.
 
-My workflow combines:
-
-- Structured problem decomposition
-- Cross-model validation
-- Domain-expert feedback
-- Real-device testing
-- Iterative UI/UX improvement
+My workflow combines structured problem decomposition, cross-model review, domain feedback, deterministic logic, real-device testing, and iterative UI/UX refinement.
 
 ---
 
-## 🛠 Tools & Methods
+# Selected Projects
 
-**Generative AI**  
+## Mouse DPI Tool
+
+Vendor-neutral Windows engineering tool for repeatable **Effective CPI measurement** using native Windows Raw Input and a known physical travel distance.
+
+**What it evaluates**
+
+Accuracy · Repeatability / CPI CV · Path Quality · Relative DPI Scaling · DPI-group evidence
+
+**Engineering workflow**
+
+Configure → Capture → Analyze → Structured JSON / HTML Report
+
+**Engineering characteristics**
+
+- Native Windows Raw Input
+- Per-device measurement evidence
+- Explicit measurement geometry and acceptance criteria
+- Multi-trial repeatability analysis
+- Fail-closed capture / admission behavior
+- Source installation workflow for clean Windows environments
+- Security, public-data, and release documentation
+
+**Current public release:** `v0.1.0rc2` Source Release Candidate
+
+**My role**
+
+Requirement Discovery · Measurement Methodology · Architecture · AI-assisted Development · UI/UX · Testing · Release Validation
+
+---
+
+## Mouse Click Stability Analyzer
+
+Independent Windows QA tool for converting raw mouse click behavior into measurable and reviewable engineering evidence.
+
+**What it measures**
+
+Click Timing · Hold Duration · Cadence · Chatter / Bounce · Missed / Extra Events · DUT vs Setup Behavior
+
+**Engineering workflow**
+
+Windows Raw Input → Event Capture → Deterministic Analysis → Visualization → Structured Report
+
+**My role**
+
+Requirement Discovery · QA Methodology · AI-assisted Development · UI/UX · Synthetic & Real-device Validation
+
+**Public release:** `v1.0.0`
+
+---
+
+## Tools & Methods
+
+**Engineering**  
+Python · PySide6 · Windows Raw Input · Git / GitHub · JSON / HTML Reporting
+
+**AI-assisted Development**  
 ChatGPT · Google Gemini · Cursor
 
 **QA / Validation**  
@@ -54,57 +102,30 @@ Project Management Professional (PMP)
 
 ---
 
-## ⭐ Featured Project
+## Projects in Development
 
-### [Mouse Click Stability Analyzer](https://github.com/kotori0802/mouse-click-stability-analyzer)
+**Power Cycle Validation**  
+Workflow automation for unattended power-cycle testing, failure tracking, device enumeration checks, and structured reporting.
 
-Independent Windows QA tool for converting raw mouse input behavior into measurable and reviewable engineering evidence.
-
-**What it measures:**  
-Click Timing · Hold Duration · Cadence · Chatter / Bounce · Missed / Extra Events · DUT vs Setup Behavior
-
-**Engineering workflow:**  
-Windows Raw Input → Event Capture → Deterministic Analysis → Visualization → Structured Report
-
-**My role:**  
-Requirement Discovery · QA Methodology · AI-assisted Development · UI/UX · Synthetic & Real-device Validation
-
-**Public release:** `v1.0.0`
-
-The project includes source code, installation guidance, synthetic examples, privacy and security documentation, and structured HTML / JSON / CSV reporting.
+**AI Test Requirement Assistant**  
+Exploring structured requirement discovery, clarification workflows, and AI-assisted test planning with human review.
 
 ---
 
-## 🧪 Projects in Development
-
-### Power Cycle Validation
-A personal prototype for unattended power-cycle testing, failure tracking, device enumeration checks, functional verification, and structured reporting.
-
-### Transient Event Visualization
-Exploring how intermittent behaviors such as wheel rebound can be converted into measurable direction, timing, and event data.
-
-### Validation Hub
-A concept for connecting validation tools, engineering logs, natural-language summaries, and standardized issue reports.
-
-### AI Test Requirement Assistant
-A planned public project exploring structured requirement discovery, clarification workflows, and AI-assisted test planning with human review.
-
----
-
-## 🔐 Project & Data Policy
+## Project & Data Policy
 
 The projects presented here are independent personal work.
 
-Public materials use my own environment, public technical documents, commercially available products, or synthetic examples.
+Public materials use my own environment, public technical documentation, commercially available products, or synthetic examples.
 
 No confidential employer information, unreleased product specifications, internal source code, or proprietary test data is published here.
 
 ---
 
-## 🎯 Current Direction
+## Current Direction
 
-I'm interested in opportunities related to:
+I'm interested in opportunities around:
 
-**AI Enablement · Generative AI Applications · Workflow Automation · System Analysis · QA Automation · Technical Project Management**
+**AI Enablement · Workflow Automation · Engineering Tools · QA Automation**
 
-My goal is to help teams move AI beyond simple Q&A and turn it into practical workflows that improve how people work.
+My goal is to help teams move AI beyond simple Q&A and turn it into practical, reviewable workflows that improve how people work.
